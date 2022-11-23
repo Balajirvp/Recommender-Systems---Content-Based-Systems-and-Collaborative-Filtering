@@ -100,3 +100,14 @@ movie_list = ['The Lion King', 'Se7en', 'Toy Story', 'Blade Runner', 'Quantum of
 
 ![image](https://user-images.githubusercontent.com/104417912/203617712-402b0b40-c15f-43ed-bdeb-b68a934098c4.png)
 
+## V) References 
+
+http://infolab.stanford.edu/~ullman/mmds/ch9.pdf 
+
+https://www.kaggle.com/code/rounakbanik/movie-recommender-systems 
+
+https://medium.com/grabngoinfo/recommendation-system-user-based-collaborative-filtering-a2e76e3e15c4 
+
+https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b 
+
+https://github.com/NicolasHug/Surprise/tree/master/examples
