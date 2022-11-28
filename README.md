@@ -27,13 +27,14 @@ Created Recommender systems using TMDB movie dataset by leveraging the concepts 
   
 ## III) Key Packages/Functions used
  
-- pandas, numpy, collections
-- SentenceTransformer (from sentence_transformers)
+- pandas - 1.4.4
+- numpy - 1.21.5
+- SentenceTransformer (from sentence_transformers) - 2.2.2
   - Model used: all-mpnet-base-v2
-- cosine_similarity (from sklearn.metrics.pairwise)
-- SVDpp (from surprise)
-- Reader, Dataset (from surprise)
-- cross_validate (from surprise.model_selection)
+- cosine_similarity (from sklearn.metrics.pairwise) - 1.0.2
+- SVDpp (from surprise) - 1.1.3
+- Reader, Dataset (from surprise) - 1.1.3
+- cross_validate (from surprise.model_selection) - 1.1.3
 
 ## IV) Predicted Recommendations
 
